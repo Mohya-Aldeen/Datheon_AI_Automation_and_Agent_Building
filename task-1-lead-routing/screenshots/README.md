@@ -1,10 +1,12 @@
 # Screenshots
 
-Add evidence of the working system, with emails and keys blurred:
+Evidence that the system works.
 
-- `01-scenario-a-diagram.png`: the main scenario
-- `02-scenario-b-diagram.png`: the Tally translator
-- `03-run-history-timing.png`: Make run history showing the duration
-- `04-airtable-records.png`: the Leads table
-- `05-slack-alert.png`: an alert in #new-leads
-- `06-tally-form.png`: the lead form
+| File | Shows |
+|---|---|
+| `01-scenario-a-diagram.png` | Main scenario (Webhook, OpenAI, Airtable, Slack) with run history |
+| `02-scenario-b-diagram.png` | Tally translator scenario (webhook address hidden) |
+| `03-run-history-timing.png` | A run of the main scenario: duration 3 s, per-module timing |
+| `04-airtable-records.png` | The Leads table with Hot, Warm and Cold records |
+| `05-slack-alert.png` | Alerts in #new-leads |
+| `06-tally-form.png` | The lead form (add this one) |
