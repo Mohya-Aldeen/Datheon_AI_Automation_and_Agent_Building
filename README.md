@@ -2,7 +2,7 @@
 
 Internship project repository for the **Datheon AI Automation & Agent Building** program.
 
-**Author:** Mohya-Aldeen Kudaish   &nbsp;|&nbsp; **GitHub:** [@ Mohya-Aldeen](https://github.com/ Mohya-Aldeen) &nbsp;|&nbsp; **LinkedIn:** [Mohya-Aldeen  ](https://www.linkedin.com/in/YOUR_PROFILE)
+**Author:** Mohya-Aldeen Kudaish   &nbsp;|&nbsp; **GitHub:** [@ Mohya-Aldeen](https://github.com/Mohya-Aldeen) &nbsp;|&nbsp; **LinkedIn:** [Mohya-Aldeen  ](https://www.linkedin.com/in/mohya-aldeen-kudaish-847451372/)
 
 [English](#english) · [العربية](#arabic)
 
@@ -20,12 +20,12 @@ This project is an **automation that qualifies leads with AI in a few seconds**.
 
 ### Task status
 
-The program requires **2 or 3 completed tasks**. This table is updated as each one is finished.
+The program requires. This table is updated as each one is finished.
 
 | Task | Title | Status |
 |---|---|---|
 | 1 | Multi-Source Lead Routing & Instant AI Qualification | **Complete**: see [`task-1-lead-routing`](./task-1-lead-routing) |
-| 2 | Autonomous Customer Support & Intelligent Email Triage | Planned |
+| 2 | Autonomous Customer Support & Intelligent Email Triage | on working |
 | 3 | AI Vision Invoice Scanner & Accounting Sync | Not started |
 | 4 | Capstone: Multi-Agent Enterprise Operations System | Not started |
 
