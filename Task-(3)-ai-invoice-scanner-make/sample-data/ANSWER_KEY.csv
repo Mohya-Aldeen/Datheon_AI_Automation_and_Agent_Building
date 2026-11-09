@@ -1,0 +1,7 @@
+file,vendor,invoice_no,date,line_items,tax,total,currency
+01_clean_software_invoice.pdf,CloudNest Hosting,CN-2026-00417,2026-10-03,1,0.00,49.00,USD
+02_multi_item_office_supplies.pdf,Nile Office Supplies,NOS-88231,2026-10-11,5,510.30,4155.30,EGP
+03_german_invoice_eur.pdf,Berliner Tech GmbH,RE-2026-1093,2026-10-15,3,204.04,1277.94,EUR
+04_consulting_two_items.pdf,Delta Consulting Group,DCG-3057,2026-10-20,2,1365.00,11115.00,EGP
+05_supermarket_receipt.pdf,FreshMart Hypermarket,FM-774412,2026-10-24,10,129.87,1057.52,EGP
+06_scanned_cafe_receipt.pdf,Cafe Zamalek,5521,2026-10-28,4,66.50 (plus service 57.00),598.50,EGP
